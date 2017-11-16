@@ -51,8 +51,8 @@ for character in encodedBitmap {
  
  Write your ideas in the code comment below.
  */
-// I notice that...
-// I know this because...
+// I notice that the colours of the squares is determined by the numbers on the strings.
+// I know this because the colors keep changing.
 /*:
  Now, **remember to commit and push your work**.
  */
