@@ -15,7 +15,8 @@ import PlaygroundSupport
  */
 let encodedBitmap = getEncodedBitmapString()
 
-// I notice that...
+// I notice that we get each time is different.
+// The characters are always only 1s or 0s.
 /*:
  Now, **remember to commit and push your work**.
  */
