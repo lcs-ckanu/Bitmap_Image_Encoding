@@ -32,7 +32,13 @@ for character in encodedBitmap {
     print(character)
 }
 
-// I notice that...
+
+// The syntax for the loop is new.
+// For character in encodeBitmap
+// for something in somethingElse
+//
+// I also notice that the loop automatically runs a different number of times each time I run the playground.
+// That I'm able to inspect or work with each individual character in the string.
 /*:
  Now, **remember to commit and push your work**.
  */
